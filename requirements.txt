@@ -1,4 +1,4 @@
-﻿pyenv
+﻿pyenv==2.7.18 | 3.12.0
 csvkit
 etllib
 hirelite
