@@ -14,4 +14,13 @@ Specifications:
 - iso8601 must be installed
 
 
-# Sean's Contribution: Part 6 and 7 Tika Similarity and roughly 1/2 the report that deals with findings
+
+
+
+
+
+
+
+
+
+Sean's Contribution: Part 6 and 7 Tika Similarity and roughly 1/2 the report that deals with findings
