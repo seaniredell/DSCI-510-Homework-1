@@ -20,3 +20,5 @@ tsvtojson -t ../../data/final_output.tsv -j ../../data/aggregate-json/aggregate.
 # if it is formatted incorrectly it will still parse with a warning)
 cd ./../data/aggregate-json
 repackage -j aggregate.json -o pixstoryposts -v
+
+# Run Chunking.py file in a Notebook to successfully breakdown the aggregate JSON file
