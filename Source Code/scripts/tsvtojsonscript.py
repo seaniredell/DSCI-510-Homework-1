@@ -11,11 +11,11 @@ touch ../../data/conf/encoding.conf
 
 
 # Create colheaders.conf
-head -n 1 ../../data/final_output.tsv | tr '\t' '\n' > ../../data//conf/colheaders.conf
+head -n 1 ../../data/final_output.tsv | tr '\t' '\n' > ../../data/conf/colheaders.conf
 # Create a folder "aggregate-json"
 mkdir -p "../../data/aggregate json"
 # Run TSV to JSON
-tsvtojson -t ../../data/final_output.tsv -j ../../data/aggregate-json/aggregate.json -c ../../data//conf/colheaders.conf -o pixstoryposts -e ../../data/conf/encoding.conf -s 0.8 -v
+tsvtojson -t ../../data/final_output.tsv -j ../../data/aggregate-json/aggregate.json -c ../../data/conf/colheaders.conf -o pixstoryposts -e ../../data/conf/encoding.conf -s 0.8 -v
 # Repackage your aggregate JSON file (when executing this step make sure Date Time format does not contain NaN values,
 # if it is formatted incorrectly it will still parse with a warning)
 cd ./../data/aggregate-json
