@@ -1,5 +1,5 @@
 ﻿# Jaccard Similarity
-# Run Jaccard Similarity (I just ran it until the server crashed I was able to get in 40,000 comparisons)
+# Run Jaccard Similarity 
 python3 /path_to/jaccard_similarity.py --inputDir ../../data/chunks --outCSV ../../data/jaccard.csv
 # Run edit-cosine-circle-packing
 python3 /path_to/edit-cosine-circle-packing.py \
