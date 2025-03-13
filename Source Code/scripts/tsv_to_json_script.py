@@ -3,7 +3,7 @@
 
 
 # Run CSV to TSV
-csvformat -T ../../data/final_output > ../../data/final_output.tsv
+csvformat -T ../../data/final_output.csv > ../../data/final_output.tsv
 
 
 # Create encoding.conf file
