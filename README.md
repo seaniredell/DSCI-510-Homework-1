@@ -13,7 +13,8 @@ Specifications:
 - hirelite must be installed (IMPORTANT! must be installed on both python 2.7.18 and 3.1 (or whatever python 3.X you have installed)
 - iso8601 must be installed
 
-
+Data Extraction Considerations:
+- During data extraction using requests and BeautifulSoup to scrape three datasets from World Population Review (Happiness Score, Mental Health Statistics, and Suicide Rates), I encountered issues with webpage structure changes. For example, a newly added table on one of the websites initially caused my original code to fail. I revised and tested the script to ensure that it was functional at the time of submission (March 14). However, if the webpage layout changes in the future, additional modifications to the scraping script may be necessary.
 
 
 
@@ -24,3 +25,7 @@ Specifications:
 
 
 Sean's Contribution: Part 6 and 7 Tika Similarity and roughly 1/2 the report that deals with findings
+
+Yingyi's Contribution: 
+- Added 4 new features to the Haunted Places dataset: Audio Evidence, Image/Video/Visual Evidence, Haunted Places Witness Count, and Apparition Type.
+- Scraped, cleaned, and merged datasets with MIME Type Message/HTTP, extracting 3 features for further analysis.
