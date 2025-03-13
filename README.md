@@ -12,3 +12,6 @@ Specifications:
 - ETLLib should be installed
 - hirelite must be installed (IMPORTANT! must be installed on both python 2.7.18 and 3.1 (or whatever python 3.X you have installed)
 - iso8601 must be installed
+
+
+# Sean's Contribution: Part 6 and 7 Tika Similarity and roughly 1/2 the report that deals with findings
