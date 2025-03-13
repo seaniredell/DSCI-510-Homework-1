@@ -16,3 +16,6 @@ cd ~/Desktop/data
 python3 -m http.server 8082
 # Look at visuals
 http://localhost:8082
+# Create a Directory and Save Results with CSV
+mkdir -p ~/Desktop/jaccard_output
+mv ~/Desktop/data/*.json ../../data/jaccard.csv ~/Desktop/jaccard_output/
