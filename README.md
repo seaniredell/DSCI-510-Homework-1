@@ -14,7 +14,7 @@ Specifications:
 - iso8601 must be installed
 
 Data Extraction Considerations:
-- During data extraction using requests and BeautifulSoup to scrape three datasets from World Population Review (Happiness Score, Mental Health Statistics, and Suicide Rates), I encountered issues with webpage structure changes. For example, a newly added table on one of the websites initially caused my original code to fail. I revised and tested the script to ensure that it was functional at the time of submission (March 14). However, if the webpage layout changes in the future, additional modifications to the scraping script may be necessary.
+- During data extraction using requests and BeautifulSoup to scrape datasets from World Population Review, I encountered issues with webpage structure changes. For example, a newly added table on one of the websites initially caused my original code to fail. I revised and tested the script to ensure that it was functional at the time of submission (March 14). However, if the webpage layout changes in the future, additional modifications to the scraping script may be necessary.
 
 
 
