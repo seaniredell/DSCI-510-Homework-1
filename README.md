@@ -14,7 +14,7 @@ Specifications:
 - iso8601 must be installed
 
 Data Extraction Considerations:
-- During data extraction using requests and BeautifulSoup to scrape datasets from World Population Review, I encountered issues with webpage structure changes. For example, a newly added table on one of the websites initially caused my original code to fail. I revised and tested the script to ensure that it was functional at the time of submission (March 14). However, if the webpage layout changes in the future, additional modifications to the scraping script may be necessary.
+- During data extraction with requests and BeautifulSoup from World Population Review (MIME Type Message/HTTP), issues arose due to webpage structure changes. For example, a newly added table initially caused the original code to fail. The script was revised and tested to ensure functionality at the time of submission (March 14). However, if the webpage layout changes in the future, further modifications to the scraping script may be required.
 
 
 
