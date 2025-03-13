@@ -1,0 +1,10 @@
+﻿pyenv
+csvkit
+etllib
+hirelite
+iso8601
+pandas==1.1.5
+numpy==1.16.6
+scipy==1.2.3
+python==2.7.18
+python==3.12.0
