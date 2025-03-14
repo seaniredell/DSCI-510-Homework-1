@@ -21,7 +21,7 @@ Data Extraction Considerations:
 Data file description：
 - LCD_Process.py：Processing the raw csv type dataset.
 - Join_CSVs.py: The processed csv type dataset is merged with the processed new Haunted Places dataset.
-- 
+- Merged_Notebooks.py: Process the raw http type dataset and join the data. And then Process the raw EXCEL type dataset and join the data.
 
 
 
