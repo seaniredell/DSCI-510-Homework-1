@@ -23,10 +23,15 @@ Data Extraction Considerations:
 
 
 
+Team members' contribution
 
 Sean's Contribution: In the Part 6 and 7, Tika Similarity and roughly 1/2 the report that deals with findings.
+
 Yafei's Contribution: In the Part 4, add features to the original Haunted Places dataset and write the corresponding report. In the Part 5, analyze EXCEL type datasets and join the data to new Haunted Places dataset, and write the corresponding report.
+
 Yingyi's Contribution: In the Part 4, add features to the original Haunted Places dataset and write the corresponding report.  In the Part 5, analyze http type datasets and join the data to new Haunted Places dataset, and write the corresponding report.
+
 Mallory's Contribution: In the Part 4, join the Alcohol Abuse and  the amount of daylight to the original Haunted Places dataset and write the corresponding report.  In the Part 5, analyze csv type datasets and join the data to new Haunted Places dataset, and write the corresponding report.
+
 Rohan's Contribution:  In the Part 5, analyze EXCEL type datasets and join the data to new Haunted Places dataset, and write the corresponding report.
 
