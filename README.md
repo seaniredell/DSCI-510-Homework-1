@@ -26,6 +26,3 @@ Data Extraction Considerations:
 
 Sean's Contribution: Part 6 and 7 Tika Similarity and roughly 1/2 the report that deals with findings
 
-Yingyi's Contribution: 
-- Added 4 new features to the Haunted Places dataset: Audio Evidence, Image/Video/Visual Evidence, Haunted Places Witness Count, and Apparition Type.
-- Scraped, cleaned, and merged datasets with MIME Type Message/HTTP, extracting 3 features for further analysis.
